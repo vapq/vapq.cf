@@ -1,7 +1,7 @@
 <script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
   new Crate({
-    server: '299881420891881473',
-    channel: '355719584830980096',
+    server: '786633449149956116',
+    channel: '799267896713805830',
     glyph: ['https://cdn.discordapp.com/avatars/293731150239891456/f7d78d0c7e6522ed296bfa315b3a1969.png', '100%']
   })
 </script>
