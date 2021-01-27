@@ -14,8 +14,7 @@
   <br><br>
 </p>
 # Latest Updates <img src="https://i.imgur.com/A4xSAsW.gif">:
- * Created VapqLUA, powered by MaterialLUA
- * Added the "Hacker" theme. thanks jekyll
+ * Created VapqLUA, powered by MaterialLUA!
 ---
 <h1 id="discord">Discord:</h1>
 <div align="center">
