@@ -5,7 +5,7 @@
     glyph: ['https://cdn.discordapp.com/avatars/293731150239891456/f7d78d0c7e6522ed296bfa315b3a1969.png', '100%']
   })
 </script>
- <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+ <link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/vapq/vapq.cf/main/favicon.ico">
 
  <p align="center">
   <b>Navigation</b><br>
