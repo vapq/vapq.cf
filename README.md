@@ -1,7 +1,7 @@
 # Homepage
- * Welcome to [vapq.cf](https://vapq.cf)]!
+ * Welcome to [vapq.cf](https://vapq.cf)!
  <p align="center">
-  <b>Some Links:</b><br>
+  <b>Navigation</b><br>
   <a href="#">Home (Current Page)</a> |
   <a href="#">Downloads</a> |
   <a href="#">Discord</a>
