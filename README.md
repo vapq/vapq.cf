@@ -1,5 +1,6 @@
 # Latest Updates <img src="https://i.imgur.com/A4xSAsW.gif">:
- * Created VapqLUA, powered by MaterialLua
+ * Created VapqLUA, powered by (MaterialLUA)[https://materiallua.ml/gettingstarted/]
+ * Added the "Hacker" theme. *thanks (jekyll)[https://github.com/jekyll]* 
  <p align="center">
   <b>Navigation</b><br>
   <a href="#">Home (Current Page)</a> |
