@@ -39,5 +39,5 @@ Page.Button({
 </div>
 ---
 <div align="center">
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built With Love">
 </div>
