@@ -1,7 +1,3 @@
-form {
-  font-family: "Lucida Console", "Courier New", monospace;
-  color: white;
-}
 # Welcome To Hackertyper!
 <form action="https://hackertyper.net">
   <label for="cars">Choose your age:</label>
