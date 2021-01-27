@@ -4,7 +4,7 @@
   <b>Navigation</b><br>
   <a href="#">Home (Current Page)</a> |
   <a href="#lua">VapqLUA</a> |
-  <a href="#">Discord</a>
+  <a href="#discord">Discord</a>
   <br><br>
 </p>
 
