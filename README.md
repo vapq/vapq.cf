@@ -1,15 +1,3 @@
-<style>
-footer {
-	position: fixed;
-	width: 100%;
-	left: 0;
-	bottom: 0;
-	background-color: #282828;
-	color: white;
-	text-align: center;
-    font-family: Arial;
-}
-</style>
 <script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
   new Crate({
     server: '786633449149956116',
@@ -61,11 +49,6 @@ Page.Button({
 ---
 
 <div align="center">
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built With Love">
+<img src="https://img.shields.io/badge/Built%20With-LOVE%20By%20the%20vapq%20staff-orange?style=for-the-badge&logo=github" alt="Image Unable To Load.">
 </div>
 
-
-
-<footer>
-	<p>Copyright &copy; vapq.cf 2020 - 2021.</p>
-</footer>
