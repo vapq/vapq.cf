@@ -1,5 +1,5 @@
-# Homepage:
- * Welcome to [vapq.cf](https://vapq.cf)  <img src="https://i.imgur.com/A4xSAsW.gif"> 
+# Latest Updates <img src="https://i.imgur.com/A4xSAsW.gif">:
+ * Created VapqLUA, powered by MaterialLua
  <p align="center">
   <b>Navigation</b><br>
   <a href="#">Home (Current Page)</a> |
