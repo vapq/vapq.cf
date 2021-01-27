@@ -1,3 +1,15 @@
+<style>
+footer {
+	position: fixed;
+	width: 100%;
+	left: 0;
+	bottom: 0;
+	background-color: #282828;
+	color: white;
+	text-align: center;
+    font-family: Arial;
+}
+</style>
 <script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
   new Crate({
     server: '786633449149956116',
@@ -15,6 +27,7 @@
   <a href="#discord">Discord</a>
   <br><br>
 </p>
+---
 
 <h1 id="lua">VapqLUA:</h1>
 
@@ -46,6 +59,13 @@ Page.Button({
 <iframe src="https://discord.com/widget?id=786633449149956116&theme=dark" width="1000" height="300" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 </div>
 ---
+
 <div align="center">
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built With Love">
 </div>
+
+
+
+<footer>
+	<p>Copyright &copy; vapq.cf 2020 - 2021.</p>
+</footer>
