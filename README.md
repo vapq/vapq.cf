@@ -1,4 +1,4 @@
-# Homepage
+# Homepage:
  * Welcome to [vapq.cf](https://vapq.cf)!
  <p align="center">
   <b>Navigation</b><br>
@@ -8,7 +8,7 @@
   <br><br>
 </p>
 
-<h1 id="lua">VapqLUA</h1>
+<h1 id="lua">VapqLUA:</h1>
 
 ```lua
 local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/MaterialLua/master/Module.lua"))()
@@ -32,3 +32,8 @@ Page.Button({
     end
 })
 ```
+
+<h1 id="discord">Discord:</h1>
+<div align="center">
+<iframe src="https://discord.com/widget?id=786633449149956116&theme=dark" width="1000" height="300" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+</div>
