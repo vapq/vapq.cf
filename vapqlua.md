@@ -5,7 +5,7 @@
   <b>Navigation</b><br>
   <a href="https://vapq.cf">Home</a> |
   <a href="">VapqLUA (Current Page)</a> |
-  <a href="#discord">Discord</a>
+  <a href="https://vapq.cf/#discord">Discord</a>
   <br><br>
 </p>
 ---
