@@ -11,7 +11,7 @@
  <p align="center">
   <b>Navigation</b><br>
   <a href="#">Home (Current Page)</a> |
-  <a href="vapqlua.md">VapqLUA Docs</a> |
+  <a href="vapqlua">VapqLUA Docs</a> |
   <a href="#discord">Discord</a>
   <br><br>
 </p>
