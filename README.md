@@ -37,3 +37,7 @@ Page.Button({
 <div align="center">
 <iframe src="https://discord.com/widget?id=786633449149956116&theme=dark" width="1000" height="300" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 </div>
+---
+<div align="center">
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+</div>
