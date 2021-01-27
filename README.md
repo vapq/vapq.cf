@@ -26,29 +26,3 @@
 <img src="https://img.shields.io/badge/Built%20With-LOVE%20By%20the%20vapq%20staff-orange?style=for-the-badge&logo=github" alt="Image Unable To Load.">
 </div>
 
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&display=swap" rel="stylesheet">
-<style>
-.foot {
-font-family: 'Open Sans', sans-serif;
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  height: 2.5rem;
-  background-color: #282828;
-}
-.sex {
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  color: white;
-  font-size: 12px;
-}
-</style>
-
-<div class="foot">
-<a class="sex">&copy; vapq.cf 2020 - 2021</a>
-</div>
