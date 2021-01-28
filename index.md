@@ -17,8 +17,7 @@
 </p>
 # Latest Updates <img src="https://i.imgur.com/A4xSAsW.gif">:
  * Created VapqLUA, powered by MaterialLUA!
----
-
+<hr />
 <div align="center">
 <img src="https://img.shields.io/badge/Built%20With-LOVE%20By%20the%20vapq%20staff-orange?style=for-the-badge&logo=github" alt="Image Unable To Load.">
 </div>
