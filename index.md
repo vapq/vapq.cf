@@ -11,7 +11,7 @@
   <b>Navigation</b><br>
   <a href="#">Home (Current Page)</a> |
   <a href="vapqlua">VapqLUA Docs</a> |
-  <a href="/dev/debug">Start Debugging</a> |
+  <a href="/dev/debugs">Start Debugging</a> |
   <a href="#discord">Discord</a>
   <br><br>
 </p>
